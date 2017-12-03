@@ -1,0 +1,24 @@
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\bin\Debug\BloodHoundHub.exe.config
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\bin\Debug\BloodHoundHub.exe
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\bin\Debug\BloodHoundHub.pdb
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.csprojResolveAssemblyReference.cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.BloodHoundUI.resources
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.Properties.Resources.resources
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.csproj.GenerateResource.Cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.exe
+C:\Users\Leighton\AppData\Local\Temporary Projects\BloodHoundHub\obj\Debug\BloodHoundHub.pdb
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\bin\Debug\BloodHoundHub.exe.config
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\bin\Debug\BloodHoundHub.exe
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\bin\Debug\BloodHoundHub.pdb
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.csprojResolveAssemblyReference.cache
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.BloodHoundUI.resources
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.Properties.Resources.resources
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.csproj.GenerateResource.Cache
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.exe
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.pdb
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.BloodHoundSettingsUI.resources
+C:\Users\Leighton\Desktop\BloodHoundHub\BloodHoundHub\obj\Debug\BloodHoundHub.BloodHoundLaunchScreen.resources
